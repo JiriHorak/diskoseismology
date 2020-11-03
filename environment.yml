@@ -8,5 +8,5 @@ dependencies:
     - numpy
     - scipy
     - jupyterlab
-    - pip:
-      - jupyterlab_latex
+#    - pip:
+#      - jupyterlab_latex
